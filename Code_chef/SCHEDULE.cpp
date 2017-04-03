@@ -1,5 +1,5 @@
 /* Copyright 2017 Carlos Roberto Martinez Ojeda <carlos.1424@@live.com.mx>
-   Problem_statement: https://uva.onlinejudge.org/external/7/719.pdf
+   Problem_statement: https://www.codechef.com/MARCH17/problems/SCHEDULE/
    Topic: Binary search */
 
 #include <iostream>
